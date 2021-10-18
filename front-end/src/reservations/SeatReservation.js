@@ -80,14 +80,14 @@ function SeatReservation() {
         <button
           type="submit"
           onClick={submitHandler}
-          className="btn btn-primary mr-4"
+          className="btn btn-primary mr-3 mb-2"
         >
           Submit
         </button>
         <button
           type="submit"
           onClick={cancelHandler}
-          className="btn btn-danger"
+          className="btn btn-danger mb-2"
         >
           Cancel
         </button>
