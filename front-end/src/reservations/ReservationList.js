@@ -17,7 +17,7 @@ function ReservationList({ reservations }) {
         reservation_id,
         "cancelled",
         abortController.status
-      ).then(() => history.push("/dashboard"));
+      ).then(() => history.go(0));
 
       return () => abortController.abort();
     }
