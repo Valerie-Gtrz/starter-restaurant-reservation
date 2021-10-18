@@ -1,4 +1,5 @@
-# Capstone: Restaurant Reservation System
+[Live Demo Link - See it in action!](https://periodic-table-res-front.herokuapp.com/dashboard)
+# Restaurant Reservation System
 
 > You have been hired as a full stack developer at _Periodic Tables_, a startup that is creating a reservation system for fine dining restaurants.
 > The software is used only by restaurant personnel when a customer calls to request a reservation.
